@@ -1,0 +1,4 @@
+model,cv_roc_auc_mean,cv_average_precision_mean
+Logistic Regression,0.767538461901798,0.5199584608764605
+Random Forest,0.7364893032448293,0.45703703612041535
+Gradient Boosting,0.7069426907632497,0.425914760431641
